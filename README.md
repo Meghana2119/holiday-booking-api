@@ -4,7 +4,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Meghana2119/Holiday-booking-assignment.git
+    git clone https://github.com/Meghana2119/Holiday-booking-api.git
     cd holiday-booking-api
     ```
 
