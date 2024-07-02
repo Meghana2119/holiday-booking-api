@@ -1,4 +1,4 @@
-MON License
+MNO License
 
 Copyright (c) 2024 CFGDegree-MN-O
 
