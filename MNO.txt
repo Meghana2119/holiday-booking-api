@@ -1,0 +1,6 @@
+MON License
+
+Copyright (c) 2024 CFGDegree-MN-O
+
+You are free to use the Software for personal, educational, and commercial
+purposes, provided that proper attribution is given to the original author(s).
