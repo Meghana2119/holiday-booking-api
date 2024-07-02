@@ -20,7 +20,7 @@
     DB_USER=root
     DB_PASSWORD=password
     DB_NAME=holiday_booking
-    PORT=3000
+    PORT=port number
     ```
 
 4. Create the MySQL database and tables:
