@@ -10,21 +10,21 @@
 
 2. Install dependencies:
     ```bash
-    npm install
+    npm install, ipm init 
     ```
 
 3. Set up environment variables:
     Create a `.env` file in the `config` directory and add the following:
     ```plaintext
     DB_HOST=localhost
-    DB_USER=root
-    DB_PASSWORD=password
+    DB_USER=root(yourUserName)
+    DB_PASSWORD=password(yourPassword)
     DB_NAME=holiday_booking
     PORT=port number
     ```
 
 4. Create the MySQL database and tables:
-    Run the provided SQL script in your MySQL environment to create the database and tables.
+    Run the provided SQL script in your MySQL environment to create the database and tables.(hoilday.booking-api.sql)
 
 5. Start the server:
     ```bash
@@ -57,14 +57,14 @@ Retrieve all bookings for a specific user.
 ## Error Handling
 - Appropriate HTTP response codes and error messages are returned for various error scenarios.
 
-## Testing (Optional)
-Testing is essential for ensuring the quality and reliability of the API. You can use tools like Postman or automated testing frameworks to test the API endpoints.
+## Testing 
+Testing is essential for ensuring the quality and reliability of the API. You can use tools like Postman,automated testing frameworks to test the API endpoints or jest.
 
 ### Example Test
 1. Start the server.
 2. Use Postman to send a GET request to `http://localhost:3000/destinations` and verify the response.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MN License.
 # holiday-booking-api
 # holiday-booking-api
