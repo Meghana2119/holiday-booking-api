@@ -10,7 +10,7 @@
 
 2. Install dependencies:
     ```bash
-    npm install, ipm init 
+    npm install, npm init 
     ```
 
 3. Set up environment variables:
@@ -58,13 +58,13 @@ Retrieve all bookings for a specific user.
 - Appropriate HTTP response codes and error messages are returned for various error scenarios.
 
 ## Testing 
-Testing is essential for ensuring the quality and reliability of the API. You can use tools like Postman,automated testing frameworks to test the API endpoints or jest.
+Testing is essential for ensuring the quality and reliability of the API. You can use tools like Postman,manual testing or automated testing frameworks to test the API endpoints.
 
 ### Example Test
 1. Start the server.
 2. Use Postman to send a GET request to `http://localhost:3000/destinations` and verify the response.
 
 ## License
-This project is licensed under the MN License.
+This project is licensed under the MNO License - see the LICENSE file for details.
 # holiday-booking-api
 # holiday-booking-api
