@@ -57,7 +57,7 @@ Retrieve all bookings for a specific user.
 ## Error Handling
 - Appropriate HTTP response codes and error messages are returned for various error scenarios.
 
-## Testing (Optional)
+## Testing 
 Testing is essential for ensuring the quality and reliability of the API. You can use tools like Postman or automated testing frameworks to test the API endpoints.
 
 ### Example Test
@@ -65,6 +65,6 @@ Testing is essential for ensuring the quality and reliability of the API. You ca
 2. Use Postman to send a GET request to `http://localhost:3000/destinations` and verify the response.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MN License - see the LICENSE file for details.
 # holiday-booking-api
 # holiday-booking-api
